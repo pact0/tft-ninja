@@ -1,0 +1,1 @@
+[{"name":"Whispering Delirium Orb","chaosEquivalent":6.5}]
