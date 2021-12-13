@@ -1,0 +1,1 @@
+[{"name":"Foreboding Delirium Orb","chaosEquivalent":13},{"name":"Jeweller's Delirium Orb","chaosEquivalent":10}]

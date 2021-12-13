@@ -1,0 +1,1 @@
+[{"name":"Blighted Primordial Pool Map 3","chaosEquivalent":78.92},{"name":"Blighted Conservatory Map 2","chaosEquivalent":30},{"name":"Blighted Primordial Blocks Map 3","chaosEquivalent":30},{"name":"Blighted Chateau Map 7","chaosEquivalent":10},{"name":"Blighted Relic Chambers Map 9","chaosEquivalent":10}]

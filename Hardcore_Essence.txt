@@ -1,0 +1,1 @@
+[{"name":"Screaming Essence of Envy","chaosEquivalent":39.46},{"name":"Screaming Essence of Woe","chaosEquivalent":3},{"name":"Remnant of Corruption","chaosEquivalent":2.39}]
