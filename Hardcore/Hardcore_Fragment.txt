@@ -1,1 +1,1 @@
-[{"name":"Fragment of the Hydra","chaosEquivalent":50},{"name":"Tul's Charged Breachstone","chaosEquivalent":10}]
+[{"name":"Fragment of the Hydra","chaosEquivalent":50}]
