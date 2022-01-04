@@ -1,1 +1,1 @@
-[{"name":"Crimson Oil","chaosEquivalent":43.76}]
+[]

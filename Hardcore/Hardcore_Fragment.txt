@@ -1,1 +1,1 @@
-[{"name":"Sacrifice at Dusk","chaosEquivalent":1}]
+[{"name":"Fragment of the Hydra","chaosEquivalent":50},{"name":"Tul's Charged Breachstone","chaosEquivalent":10}]
